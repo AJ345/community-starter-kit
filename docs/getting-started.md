@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+WELCOME TO THE APP 
+YOU MAY USE THE CODE 
